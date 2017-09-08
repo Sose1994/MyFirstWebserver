@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Sose1994/MyFirstWebserver/issues"
   },
-  "homepage": "https://github.com/Sose1994/MyFirstWebserver#readme"
+  "homepage": "https://github.com/Sose1994/MyFirstWebserver#readme",
+  "engines":{"node" : "0.12.x"}
 }
