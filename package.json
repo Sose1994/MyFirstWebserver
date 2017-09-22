@@ -11,11 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/Sose1994/MyFirstWebserver.git"
   },
-  "author": "",
+  "author": "SS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sose1994/MyFirstWebserver/issues"
   },
   "homepage": "https://github.com/Sose1994/MyFirstWebserver#readme",
-  "engines":{"node" : "0.12.x"}
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "one-liner-joke": "^1.0.0"
+  }
 }
