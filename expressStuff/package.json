@@ -1,0 +1,14 @@
+{
+  "name": "expressstuff",
+  "version": "1.0.0",
+  "description": "no idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "test this shit"
+  },
+  "author": "SS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
